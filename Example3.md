@@ -1,0 +1,1 @@
+Created in Visual Studio Code, this markdown file serves as an example for demonstrating various markdown features. It includes headings, lists, code blocks, and links to illustrate how to format content effectively.
